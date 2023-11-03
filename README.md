@@ -65,6 +65,10 @@ A computational model inspired by the structure and functions of biological neur
 
 <img width="482" alt="Screen Shot 2023-11-03 at 12 52 53 AM" src="https://github.com/ProBag/Wildfire-Damage-Mitigation-Predictive-Machine-Learning-Models-for-Wildfire-Severity-Classification/assets/143302669/b66b2ee1-8e6d-4d90-9e3f-2cd7d826a018">
 
+## Conclusion 
+
+Moving forward, expanding data collection beyond CAL FIRE's historical records by incorporating additional wildfire data sources will integrate more influential predictor variables, such as comprehensive land cover data, to enhance the accuracy of our predictive models. Helps in identifying and re-evaluating  label assignment methods and exploring various augmentation techniques to address target feature imbalances as key priorities. The ultimate goal is to achieve improved model performance, enabling more effective applications for first responders. Community contribution to wildfire damage mitigation and the preservation of lives and the environment.
+
 ## Reference 
 A. S. Mahdi and S. A. Mahmood, "Analysis of Deep Learning Methods for Early Wildfire Detection Systems: Review," 2022 5th International Conference on Engineering Technology and its Applications (IICETA), Al-Najaf, Iraq, 2022, pp. 271-276, doi: 10.1109/IICETA54559.2022.9888515.
 
