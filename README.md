@@ -6,9 +6,15 @@ Aims to predict the severity of wildfires using machine learning techniques, to 
 
 ## Dataset API
 
-Weather Data - Visual Crossing (https://www.visualcrossing.com/) and The National Oceanic and Atmospheric Administration (NOAA) (https://www.ncei.noaa.gov/access/)
+Weather Data - Visual Crossing (https://www.visualcrossing.com/), Tomorrow (https://www.tomorrow.io/weather-api/)
 
-Drought Index - U.S. Drought Monitor (https://droughtmonitor.unl.edu/Data.aspx) and NOAA (https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/divisional/time-series/0401/pdsi/1/2/2013-2023?base_prd=true&begbaseyear=1901&endbaseyear=2000#) and Drought.gov (https://www.drought.gov/about/partners/university-california-merced)
+The National Oceanic and Atmospheric Administration (NOAA) (https://www.ncei.noaa.gov/access/)
+
+Drought Index - U.S. Drought Monitor (https://droughtmonitor.unl.edu/Data.aspx) 
+
+NOAA (https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/divisional/time-series/0401/pdsi/1/2/2013-2023?base_prd=true&begbaseyear=1901&endbaseyear=2000#) 
+
+Drought.gov (https://www.drought.gov/about/partners/university-california-merced)
 
 gridMET (https://www.climatologylab.org/gridmet.html) (download pdsi.nc) 
 
